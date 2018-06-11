@@ -1,0 +1,38 @@
+﻿[
+  {
+    "MedicineId": "0dded8ff-ae06-4f1f-8150-d84030d40858",
+    "MedicineName": "Test Medicine A",
+    "Brand": "Brand A",
+    "Price": "12",
+    "Quantity": "8",
+    "ExpiryDate": "12/12/2018",
+    "Notes": "Test Notes A"
+  },
+  {
+    "MedicineId": "3b6fe286-e976-477e-bb26-8206e0f92422",
+    "MedicineName": "Test Medicine B",
+    "Brand": "Brand B",
+    "Price": "5",
+    "Quantity": "56",
+    "ExpiryDate": "06/10/2019",
+    "Notes": "Test Notes B"
+  },
+  {
+    "MedicineId": "4a94b5ed-41b2-4b33-85ed-8e603bcdeb55",
+    "MedicineName": "Test Medicine C",
+    "Brand": "Brand C",
+    "Price": "3.5",
+    "Quantity": "40",
+    "ExpiryDate": "06/30/2018",
+    "Notes": "Test Notes C"
+  },
+  {
+    "MedicineId": "4a94b5ed-41b2-4b33-85ed-8e603bcdeb34",
+    "MedicineName": "Test Medicine D",
+    "Brand": "Brand D",
+    "Price": "3.5",
+    "Quantity": "23",
+    "ExpiryDate": "12/07/2018",
+    "Notes": "Test Notes D"
+  }
+]

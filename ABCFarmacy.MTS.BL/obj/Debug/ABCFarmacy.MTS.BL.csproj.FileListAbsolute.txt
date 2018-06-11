@@ -1,0 +1,7 @@
+E:\Demo Projects\Sapient\ABCFarmacy.MTS.API\ABCFarmacy.MTS.BL\bin\Debug\ABCFarmacy.MTS.BL.dll
+E:\Demo Projects\Sapient\ABCFarmacy.MTS.API\ABCFarmacy.MTS.BL\bin\Debug\ABCFarmacy.MTS.BL.pdb
+E:\Demo Projects\Sapient\ABCFarmacy.MTS.API\ABCFarmacy.MTS.BL\bin\Debug\Newtonsoft.Json.dll
+E:\Demo Projects\Sapient\ABCFarmacy.MTS.API\ABCFarmacy.MTS.BL\bin\Debug\Newtonsoft.Json.xml
+E:\Demo Projects\Sapient\ABCFarmacy.MTS.API\ABCFarmacy.MTS.BL\obj\Debug\ABCFarmacy.MTS.BL.csprojResolveAssemblyReference.cache
+E:\Demo Projects\Sapient\ABCFarmacy.MTS.API\ABCFarmacy.MTS.BL\obj\Debug\ABCFarmacy.MTS.BL.dll
+E:\Demo Projects\Sapient\ABCFarmacy.MTS.API\ABCFarmacy.MTS.BL\obj\Debug\ABCFarmacy.MTS.BL.pdb
